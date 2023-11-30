@@ -30,9 +30,6 @@ console.log(nobeldata[0].LaureatesAndAwards[23].Category)
 
 // Let's attempt the filter function
 
-function SelectPrizeCategory(js_data) {
-  return js_data[0].LaureatesAndAwards.Category == "Physics"
-}
 
 //let physics = nobeldata.filter(SelectPrizeCategory)
 
